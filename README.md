@@ -1,2 +1,2 @@
 # Slack-Off
-6 days
+7 days
